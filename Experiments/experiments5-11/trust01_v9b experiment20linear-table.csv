@@ -1,0 +1,38 @@
+BehaviorSpace results (NetLogo 5.2.1),,,,,,,,,,,,,,
+trust01+AF8-v9b.nlogo,,,,,,,,,,,,,,
+experiment20linear,,,,,,,,,,,,,,
+11/05/2015 12:29:33:873 +003//Q-,,,,,,,,,,,,,,
+min+AC0-pxcor,max+AC0-pxcor,min+AC0-pycor,max+AC0-pycor,,,,,,,,,,,
+0,30,0,31,,,,,,,,,,,
++AFs-run number+AF0-,+AF8-log,discovery+AF8-type,+AF8-exportMovie,proportionSkeptic,+AF8-network+AF8-type,+AF8-nodes,confirmationSkeptic,+AFs-step+AF0-,count turtles,sum +AFs-costs+AF0- of turtles,count turtles with +AFs- p? +AF0-,count turtles with +AFs- +AF8-p? +AF0-,+AFs-ranking+AF0- of turtle discoverP,+AFs-ranking+AF0- of turtle discoverNotP
+4,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,7,20,23,6,14,14,7
+2,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,7,20,10,8,12,1,15
+3,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,14,20,21,0,20,16,13
+7,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,9,20,13,9,11,18,2
+6,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,6,20,12,9,11,4,15
+5,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,14,20,47,3,17,13,16
+9,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,13,20,19,0,20,14,12
+10,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,10,20,14,19,2,10,0
+12,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,7,20,10,8,12,2,15
+8,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,17,20,13,0,20,16,17
+11,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,16,20,13,2,18,18,16
+15,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,7,20,13,8,12,18,4
+13,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,8,20,20,6,14,12,6
+14,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,12,20,21,20,0,12,19
+17,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,9,20,12,13,7,8,14
+18,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,9,20,27,18,2,9,14
+16,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,13,20,23,2,18,18,12
+19,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,13,20,26,20,0,13,19
+20,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,9,20,27,13,7,4,10
+21,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,7,20,13,10,10,17,2
+22,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,8,20,10,10,10,2,18
+24,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,12,20,15,0,20,13,11
+23,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,10,20,31,20,0,9,13
+26,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,7,20,27,7,13,13,5
+25,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,8,20,10,13,7,8,17
+27,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,13,20,19,0,20,18,13
+29,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,8,20,12,9,11,1,16
+28,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,11,20,13,5,15,18,11
+30,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,11,20,13,4,16,0,8
+1,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,95,14,20,11,3,18,0,6
+,,,,,,,,,,17.9333333333,,,,

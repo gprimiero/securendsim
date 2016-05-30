@@ -1,0 +1,38 @@
+BehaviorSpace results (NetLogo 5.2.1),,,,,,,,,,,,,,
+trust01+AF8-v9b.nlogo,,,,,,,,,,,,,,
+experiment280sw,,,,,,,,,,,,,,
+11/11/2015 11:01:37:426 +003//Q-,,,,,,,,,,,,,,
+min+AC0-pxcor,max+AC0-pxcor,min+AC0-pycor,max+AC0-pycor,,,,,,,,,,,
+0,30,0,31,,,,,,,,,,,
++AFs-run number+AF0-,+AF8-log,discovery+AF8-type,+AF8-exportMovie,proportionSkeptic,+AF8-network+AF8-type,+AF8-nodes,confirmationSkeptic,+AFs-step+AF0-,count turtles,sum +AFs-costs+AF0- of turtles,count turtles with +AFs- p? +AF0-,count turtles with +AFs- +AF8-p? +AF0-,+AFs-ranking+AF0- of turtle discoverP,+AFs-ranking+AF0- of turtle discoverNotP
+4,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,57,281,143,0,281,1,1
+2,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,48,281,326,10,271,0.3333333333,1
+6,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,31,281,130,0,281,1,1
+7,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,35,281,150,228,53,1,1
+5,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,49,281,161,0,281,1,0.5
+3,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,49,281,249,11,270,1,1
+8,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,40,281,128,272,9,1,1
+9,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,47,281,145,0,281,1,1
+12,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,41,281,211,281,0,0.3333333333,1
+10,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,47,281,171,0,281,0.0666666667,1
+13,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,44,281,201,281,0,1,1
+11,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,76,281,476,21,260,0.3333333333,1
+14,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,50,281,251,264,17,1,1
+15,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,34,281,147,4,277,1,1
+16,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,43,281,198,281,0,1,1
+17,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,51,281,201,263,18,0.1428571429,0.2
+18,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,53,281,287,0,281,1,1
+21,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,48,281,143,219,62,0.2,1
+20,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,54,281,223,23,258,0.5,1
+23,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,44,281,155,0,281,0.5,1
+19,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,57,281,186,40,241,1,1
+22,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,57,281,269,281,0,0.3333333333,1
+24,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,56,281,207,13,268,1,1
+27,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,37,281,157,281,0,0.0294117647,0.0555555556
+26,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,49,281,279,18,263,0.5,0.5
+25,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,51,281,184,274,7,0.5,1
+30,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,42,281,128,71,210,1,1
+29,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,50,281,149,67,214,1,1
+28,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,76,281,177,278,3,1,1
+1,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-small+AC0-world+ACIAIg-+ACI-,280,95,74,281,442,199,82,0.5,0.1428571429
+,,,,,,,,49.6666666667,,,,,,

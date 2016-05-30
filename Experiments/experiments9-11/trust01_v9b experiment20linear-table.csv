@@ -1,0 +1,38 @@
+BehaviorSpace results (NetLogo 5.2.1),,,,,,,,,,,,,,
+trust01+AF8-v9b.nlogo,,,,,,,,,,,,,,
+experiment20linear,,,,,,,,,,,,,,
+11/09/2015 16:28:46:698 +003//Q-,,,,,,,,,,,,,,
+min+AC0-pxcor,max+AC0-pxcor,min+AC0-pycor,max+AC0-pycor,,,,,,,,,,,
+0,30,0,31,,,,,,,,,,,
++AFs-run number+AF0-,+AF8-log,discovery+AF8-type,+AF8-exportMovie,proportionSkeptic,+AF8-network+AF8-type,+AF8-nodes,confirmationSkeptic,+AFs-step+AF0-,count turtles,sum +AFs-costs+AF0- of turtles,count turtles with +AFs- p? +AF0-,count turtles with +AFs- +AF8-p? +AF0-,+AFs-ranking+AF0- of turtle discoverP,+AFs-ranking+AF0- of turtle discoverNotP
+1,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,7,20,10,10,10,17,3
+5,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,8,20,10,11,9,16,0
+6,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,9,20,18,18,2,11,0
+4,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,16,20,45,16,4,0,3
+7,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,8,20,10,11,9,16,0
+8,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,15,20,13,0,20,18,14
+3,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,9,20,18,3,17,12,8
+10,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,12,20,27,13,7,1,8
+2,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,13,20,22,3,17,13,15
+9,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,10,20,14,3,17,19,9
+12,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,7,20,9,9,11,13,7
+14,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,8,20,10,11,9,17,0
+13,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,15,20,8,0,20,16,14
+15,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,9,20,9,9,11,11,8
+17,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,7,20,6,9,11,17,4
+16,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,10,20,32,16,4,6,10
+20,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,13,20,29,19,3,6,0
+18,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,10,20,27,2,18,9,8
+22,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,7,20,9,9,11,16,7
+21,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,8,20,24,14,6,6,12
+24,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,10,20,30,17,3,11,10
+23,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,13,20,15,20,0,6,8
+19,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,15,20,32,2,18,0,4
+27,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,8,20,6,11,9,3,19
+25,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,8,20,22,4,16,17,7
+26,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,11,20,23,7,13,9,3
+30,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,6,20,9,9,11,13,4
+29,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,13,20,14,0,20,6,7
+28,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,18,20,31,3,20,1,2
+11,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-linear+ACIAIg-+ACI-,20,100,13,20,12,20,0,9,8
+,,,,,,,,10.5333333333,,,,,,

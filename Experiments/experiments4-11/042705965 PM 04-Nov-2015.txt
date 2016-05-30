@@ -1,0 +1,14 @@
+model parameters
+nodes	50
+skeptics	30
+% of confirmation for skeptics' control	95
+network type	small-world
+discovery_type	lazyP-skepticNotP
+
+model output
+total costs	55
+total timesteps	15
+turtle that knows p	4
+turtle that knows not p	47
+turtle that discovers p (id,ranking,skeptic?)	21	1	false
+turtle that discovers not p (id,ranking,skeptic?)	2	0.09090909090909091	true

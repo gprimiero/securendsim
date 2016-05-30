@@ -1,0 +1,38 @@
+BehaviorSpace results (NetLogo 5.2.1),,,,,,,,,,,,,,
+trust01+AF8-v9b.nlogo,,,,,,,,,,,,,,
+experiment190random,,,,,,,,,,,,,,
+11/11/2015 14:39:18:010 +003//Q-,,,,,,,,,,,,,,
+min+AC0-pxcor,max+AC0-pxcor,min+AC0-pycor,max+AC0-pycor,,,,,,,,,,,
+0,30,0,31,,,,,,,,,,,
++AFs-run number+AF0-,+AF8-log,discovery+AF8-type,+AF8-exportMovie,proportionSkeptic,+AF8-network+AF8-type,+AF8-nodes,confirmationSkeptic,+AFs-step+AF0-,count turtles,sum +AFs-costs+AF0- of turtles,count turtles with +AFs- p? +AF0-,count turtles with +AFs- +AF8-p? +AF0-,+AFs-ranking+AF0- of turtle discoverP,+AFs-ranking+AF0- of turtle discoverNotP
+4,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,30,190,96,110,80,20,173
+3,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,41,190,265,58,132,63,92
+6,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,36,190,141,185,5,161,157
+7,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,52,190,97,0,190,163,140
+2,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,1000,190,171,0,184,41,44
+8,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,44,190,127,4,186,188,131
+10,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,28,190,97,95,95,45,57
+11,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,29,190,162,189,2,80,106
+5,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,1000,190,93,0,110,123,32
+12,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,36,190,91,139,51,58,75
+14,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,31,190,91,20,170,46,118
+15,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,36,190,91,95,95,130,140
+16,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,39,190,91,139,51,189,7
+17,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,49,190,109,190,0,155,36
+18,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,38,190,143,41,149,52,123
+19,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,32,190,91,95,95,154,177
+20,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,27,190,143,52,138,18,158
+21,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,36,190,95,95,95,161,129
+22,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,38,190,95,95,95,121,11
+23,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,33,190,129,41,149,27,26
+24,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,26,190,101,149,41,133,36
+25,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,36,190,91,139,51,78,2
+26,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,34,190,225,15,185,14,22
+27,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,44,190,93,139,51,38,68
+28,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,34,190,294,190,11,154,178
+29,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,32,190,117,41,149,179,61
+9,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,1000,190,97,155,29,61,183
+1,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,1000,190,81,80,0,151,171
+30,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,46,190,91,51,139,130,99
+13,true,+ACI-+ACIAIg-lazyP+AC0-skepticNotP+ACIAIg-+ACI-,false,50,+ACI-+ACIAIg-random+ACIAIg-+ACI-,190,95,1000,190,14864,17,80,144,67
+,,,,,,,,196.9,,,,,,

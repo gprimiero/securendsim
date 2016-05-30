@@ -1,0 +1,31 @@
+["confirmationSkeptic" 95]
+["_network_type" "small-world"]
+["proportionSkeptic" 50]
+["discovery_type" "lazyP-skepticNotP"]
+["_nodes" 300]
+["_log" true]
+["_exportMovie" false]
+
+
+--
+
+count turtles
+sum [costs] of turtles
+count turtles with [ p? ]
+count turtles with [ _p? ]
+[ranking] of turtle discoverP
+[ranking] of turtle discoverNotP
+
+--
+
+setup
+contradictory-discovery
+
+-- 
+ go
+ 
+--
+
+clearP
+ 
+ 
